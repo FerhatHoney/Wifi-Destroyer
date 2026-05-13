@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Destroyer Pro</string>
+    <string name="hello">Merhaba, Wifi Destroyer!</string>
+    
+    <string name="kill_all_switch">Tümünü Kes</string>
+    <string name="attach_to_all">Tümünü İzle</string>
+    <string name="switch_kill">KES</string>
+    <string name="attach">İZLE</string>
+    <string name="killed">Ağdan Düşürüldü</string>
+
+    <string name="device_label_up">Yükleme (Up): </string>
+    <string name="device_label_down">İndirme (Down):</string>
+    <string name="hint_device_name">Cihaza özel bir isim verin...</string>
+    
+    <string name="statusbar_0">0</string>
+    
+    <string name="example_ip">192.168.1.100</string>
+    <string name="example_device_name">Bilinmeyen Cihaz</string>
+    <string name="example_1mb">1.0 MB</string>
+    <string name="example_10mb">10 MB</string>
+    <string name="example_device_vendor">Apple Inc.</string>
+    <string name="example_time">19:24:22</string>
+    <string name="example_http_link">http://link/</string>
+    <string name="example_url_path">/index.html</string>
+    <string name="example_url_host">google.com</string>
+</resources>

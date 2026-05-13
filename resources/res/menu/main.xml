@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/menu_power"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="BAŞLAT"
+        android:checked="true"
+        android:checkable="true"
+        android:showAsAction="always|withText"/>
+        
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="Yenile"
+        android:showAsAction="always"/>
+        
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Ara"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/menu_preferences"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Ayarlar"
+        android:showAsAction="never"/>
+        
+    <item
+        android:id="@+id/menu_help"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Yardım"
+        android:showAsAction="never"/>
+        
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Hakkında"
+        android:showAsAction="never"/>
+</menu>

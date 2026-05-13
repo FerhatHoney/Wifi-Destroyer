@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Genel Seçenekler">
+        <SwitchPreference
+            android:key="pref_key_fullscreen"
+            android:title="Tam Ekran Modu"
+            android:summary="Üstteki bildirim çubuğunu gizler"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Cihaz Listesi Ayarları">
+        <SwitchPreference
+            android:key="pref_key_show_nbname"
+            android:title="Ağ İsimlerini Göster"
+            android:summary="Cihazların NetBIOS (Ağ) isimlerini listede gösterir"
+            android:defaultValue="false" />
+
+        <SwitchPreference
+            android:key="pref_key_show_hwaddr"
+            android:title="MAC Adresini Göster"
+            android:summary="Cihazların benzersiz MAC adresini listede gösterir"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_key_show_vendor"
+            android:title="Üreticiyi Göster"
+            android:summary="Ağ kartı (NIC) üreticisini gösterir (Örn: Apple, Samsung)"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
