@@ -1,0 +1,9 @@
+###### Class me.paranoid.wifikill.R is created by jadx
+###### Class me.paranoid.wifikill.R.anim is created by jadx
+###### Class me.paranoid.wifikill.R.drawable is created by jadx
+###### Class me.paranoid.wifikill.R.id is created by jadx
+###### Class me.paranoid.wifikill.R.layout is created by jadx
+###### Class me.paranoid.wifikill.R.menu is created by jadx
+###### Class me.paranoid.wifikill.R.string is created by jadx
+###### Class me.paranoid.wifikill.R.style is created by jadx
+###### Class me.paranoid.wifikill.R.xml is created by jadx
